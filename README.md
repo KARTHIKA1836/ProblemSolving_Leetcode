@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0344-reverse-string) |
 ## String
