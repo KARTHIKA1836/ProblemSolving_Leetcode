@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0283-move-zeroes) |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
