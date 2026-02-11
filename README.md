@@ -42,6 +42,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0344-reverse-string) |
@@ -69,5 +70,6 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
