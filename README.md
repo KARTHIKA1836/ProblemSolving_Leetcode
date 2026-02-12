@@ -13,6 +13,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0283-move-zeroes) |
+| [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,10 +55,12 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
+| [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0011-container-with-most-water) |
+| [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,4 +75,5 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0168-excel-sheet-column-title](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
+| [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
