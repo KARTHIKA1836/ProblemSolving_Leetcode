@@ -25,6 +25,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,9 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0171-excel-sheet-column-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
