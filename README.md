@@ -13,6 +13,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0283-move-zeroes) |
+| [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +79,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0171-excel-sheet-column-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0479-largest-palindrome-product](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0479-largest-palindrome-product) |
+| [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -87,4 +90,8 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0479-largest-palindrome-product) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
