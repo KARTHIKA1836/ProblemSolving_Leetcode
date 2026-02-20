@@ -38,6 +38,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0205-isomorphic-strings](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
 |  |
 | ------- |
