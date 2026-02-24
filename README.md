@@ -82,6 +82,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0223-rectangle-area) |
 | [0479-largest-palindrome-product](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0479-largest-palindrome-product) |
+| [0492-construct-the-rectangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
