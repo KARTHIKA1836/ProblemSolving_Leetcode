@@ -27,6 +27,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0492-construct-the-rectangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -102,4 +104,12 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0223-rectangle-area) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
