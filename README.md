@@ -87,6 +87,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1025-divisor-game) |
+| [1103-distribute-candies-to-people](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -112,4 +113,8 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1025-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [1103-distribute-candies-to-people](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1103-distribute-candies-to-people) |
 <!---LeetCode Topics End-->
