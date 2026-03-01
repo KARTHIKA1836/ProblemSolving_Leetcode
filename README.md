@@ -92,6 +92,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1071-greatest-common-divisor-of-strings](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1185-day-of-the-week](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1185-day-of-the-week) |
 ## Memoization
 |  |
 | ------- |
