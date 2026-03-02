@@ -53,6 +53,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Trie
 |  |
@@ -83,6 +84,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0171-excel-sheet-column-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0223-rectangle-area) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0479-largest-palindrome-product](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0492-construct-the-rectangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -121,4 +123,8 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1103-distribute-candies-to-people) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
