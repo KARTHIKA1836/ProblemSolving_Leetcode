@@ -17,6 +17,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0812-largest-triangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [2769-find-the-maximum-achievable-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2928-distribute-candies-among-children-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2928-distribute-candies-among-children-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
