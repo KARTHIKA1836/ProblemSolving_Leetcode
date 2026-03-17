@@ -153,4 +153,20 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
