@@ -14,6 +14,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -182,5 +183,14 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
