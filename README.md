@@ -166,6 +166,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -198,6 +199,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -206,4 +208,5 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
