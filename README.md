@@ -18,6 +18,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0812-largest-triangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -178,4 +179,5 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
