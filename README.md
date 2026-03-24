@@ -11,6 +11,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0014-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
@@ -153,6 +154,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0078-subsets) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Combinatorics
 |  |
@@ -212,4 +214,8 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
