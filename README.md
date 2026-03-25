@@ -224,4 +224,8 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
