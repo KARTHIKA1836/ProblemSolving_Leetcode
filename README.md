@@ -22,6 +22,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0812-largest-triangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0994-rotting-oranges](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2906-construct-product-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2906-construct-product-matrix) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -176,6 +177,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -202,6 +204,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0994-rotting-oranges) |
 | [2906-construct-product-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2906-construct-product-matrix) |
 ## Tree
 |  |
