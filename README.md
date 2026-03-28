@@ -27,6 +27,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1929-concatenation-of-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2906-construct-product-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -171,6 +172,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
 |  |
