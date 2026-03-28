@@ -18,6 +18,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0141-linked-list-cycle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0771-jewels-and-stones](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0771-jewels-and-stones) |
@@ -101,6 +103,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## String Matching
 |  |
 | ------- |
