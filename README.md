@@ -252,4 +252,5 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
