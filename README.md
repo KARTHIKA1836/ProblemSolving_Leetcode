@@ -34,6 +34,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -56,6 +57,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1025-divisor-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1143-longest-common-subsequence) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0217-contains-duplicate](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +224,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
