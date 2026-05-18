@@ -54,6 +54,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -122,6 +123,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
@@ -149,6 +151,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Enumeration
 |  |
