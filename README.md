@@ -70,6 +70,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1025-divisor-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1071-greatest-common-divisor-of-strings](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1360-number-of-days-between-two-dates](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
@@ -130,6 +132,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
 ## String Matching
 |  |
 | ------- |
@@ -179,6 +182,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
 | [2906-construct-product-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Geometry
