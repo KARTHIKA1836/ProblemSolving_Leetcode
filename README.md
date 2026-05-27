@@ -9,6 +9,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0001-two-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -78,6 +79,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0125-valid-palindrome) |
@@ -120,6 +122,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
