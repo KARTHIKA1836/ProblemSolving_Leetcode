@@ -35,6 +35,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1920-build-array-from-permutation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -96,6 +97,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0344-reverse-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -230,6 +232,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1920-build-array-from-permutation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3701-compute-alternating-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
