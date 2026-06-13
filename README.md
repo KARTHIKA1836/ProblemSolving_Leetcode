@@ -51,6 +51,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3668-restore-finishing-order](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -237,6 +239,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [2161-partition-array-according-to-given-pivot](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3701-compute-alternating-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
