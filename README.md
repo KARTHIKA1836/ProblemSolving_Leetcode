@@ -13,6 +13,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0018-4sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -304,6 +306,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
