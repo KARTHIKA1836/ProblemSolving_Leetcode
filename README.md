@@ -18,6 +18,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0001-two-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -142,6 +144,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0015-3sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -301,6 +304,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -336,4 +340,8 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0175-combine-two-tables](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0182-duplicate-emails) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
