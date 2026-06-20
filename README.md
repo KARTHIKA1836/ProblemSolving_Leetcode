@@ -36,6 +36,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1732-find-the-highest-altitude](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1840-maximum-building-height) |
 | [1920-build-array-from-permutation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -151,6 +152,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0217-contains-duplicate](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1840-maximum-building-height](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1840-maximum-building-height) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -198,6 +200,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1344-angle-between-hands-of-a-clock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1360-number-of-days-between-two-dates](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1688-count-of-matches-in-tournament](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1840-maximum-building-height](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1840-maximum-building-height) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2928-distribute-candies-among-children-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2928-distribute-candies-among-children-i) |
