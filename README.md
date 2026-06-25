@@ -59,6 +59,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3668-restore-finishing-order](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -84,6 +85,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3120-count-the-number-of-special-characters-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3668-restore-finishing-order](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3668-restore-finishing-order) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +246,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [2574-left-and-right-sum-differences](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
 |  |
 | ------- |
@@ -326,6 +329,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0053-maximum-subarray](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -365,6 +369,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0169-majority-element](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -373,4 +378,12 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
