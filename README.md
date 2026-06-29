@@ -149,6 +149,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3110-score-of-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3612-process-string-with-special-operations-i) |
