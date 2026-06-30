@@ -84,6 +84,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0560-subarray-sum-equals-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -145,6 +146,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1071-greatest-common-divisor-of-strings](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
@@ -194,6 +196,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
 ## String Matching
 |  |
