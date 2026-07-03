@@ -60,6 +60,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3620-network-recovery-pathways](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -109,6 +110,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
+| [3620-network-recovery-pathways](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -338,6 +340,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
@@ -351,6 +354,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -427,8 +431,14 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
