@@ -265,6 +265,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0479-largest-palindrome-product) |
+| [1291-sequential-digits](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1291-sequential-digits) |
 | [2928-distribute-candies-among-children-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
