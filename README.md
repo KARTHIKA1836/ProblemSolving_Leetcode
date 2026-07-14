@@ -59,6 +59,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -114,6 +115,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1137-n-th-tribonacci-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -250,6 +252,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [2928-distribute-candies-among-children-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -461,4 +464,8 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
