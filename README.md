@@ -38,6 +38,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0994-rotting-oranges](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -93,6 +94,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0560-subarray-sum-equals-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -190,6 +192,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0268-missing-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
