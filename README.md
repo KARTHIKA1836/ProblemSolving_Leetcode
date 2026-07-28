@@ -176,6 +176,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3110-score-of-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -201,6 +202,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1833-maximum-ice-cream-bars](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -451,6 +453,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
