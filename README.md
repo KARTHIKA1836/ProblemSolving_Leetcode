@@ -172,6 +172,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -217,6 +218,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -263,6 +265,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2928-distribute-candies-among-children-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
