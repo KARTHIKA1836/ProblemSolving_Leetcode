@@ -9,18 +9,14 @@ class Solution {
                 break;
             }
         }
-        while(true){
-            boolean found = false;
-            for(int num :nums){
-                if(num==sum){
-                    found = true;
-                    break;
-                }
-            }
-            if(!found){
-                return sum;
-            }
+        
+        HashSet<Integer> set = new HashSet<>();
+        for(int num:nums){
+            set.add(num);
+        }
+        while(set.contains(sum)){
             sum++;
         }
+        return sum;
     }
 }
