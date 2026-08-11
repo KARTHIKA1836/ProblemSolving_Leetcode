@@ -453,6 +453,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0175-combine-two-tables](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0182-duplicate-emails) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Counting
 |  |
 | ------- |
