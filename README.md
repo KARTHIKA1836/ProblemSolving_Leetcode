@@ -40,6 +40,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1288-remove-covered-intervals](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -102,6 +103,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1189-maximum-number-of-balloons](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -271,6 +273,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1185-day-of-the-week](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1185-day-of-the-week) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1360-number-of-days-between-two-dates](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [1512-number-of-good-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1840-maximum-building-height) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -464,6 +467,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0169-majority-element](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
