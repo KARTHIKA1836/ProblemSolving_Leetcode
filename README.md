@@ -66,6 +66,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3467-transform-array-by-parity](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -113,6 +114,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3668-restore-finishing-order](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
