@@ -39,6 +39,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -104,6 +105,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1189-maximum-number-of-balloons](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -230,6 +232,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0011-container-with-most-water](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0134-gas-station) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1386-cinema-seat-allocation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -361,6 +364,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0078-subsets](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1386-cinema-seat-allocation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
