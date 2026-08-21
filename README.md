@@ -160,6 +160,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3794-reverse-string-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -195,6 +196,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3612-process-string-with-special-operations-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3794-reverse-string-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
