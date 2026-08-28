@@ -190,6 +190,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2027-minimum-moves-to-convert-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -242,6 +243,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1386-cinema-seat-allocation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2027-minimum-moves-to-convert-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
