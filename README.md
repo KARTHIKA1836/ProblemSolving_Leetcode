@@ -271,6 +271,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0171-excel-sheet-column-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0479-largest-palindrome-product](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0479-largest-palindrome-product) |
@@ -355,6 +356,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0258-add-digits) |
 | [1103-distribute-candies-to-people](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -527,6 +529,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0258-add-digits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
