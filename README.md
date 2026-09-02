@@ -33,6 +33,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -220,6 +221,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0217-contains-duplicate](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -282,6 +284,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0492-construct-the-rectangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
