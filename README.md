@@ -318,6 +318,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3870-count-commas-in-range) |
 ## Memoization
 |  |
 | ------- |
