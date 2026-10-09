@@ -40,6 +40,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -230,6 +231,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0268-missing-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -518,6 +520,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
@@ -567,4 +570,8 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
