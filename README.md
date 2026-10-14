@@ -37,6 +37,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0643-maximum-average-subarray-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0812-largest-triangle-area) |
+| [0888-fair-candy-swap](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -113,6 +114,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0560-subarray-sum-equals-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -232,6 +234,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0242-valid-anagram](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0888-fair-candy-swap](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -458,6 +461,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [0209-minimum-size-subarray-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0268-missing-number) |
+| [0888-fair-candy-swap](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2540-minimum-common-value) |
