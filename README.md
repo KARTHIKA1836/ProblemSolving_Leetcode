@@ -266,6 +266,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -327,6 +328,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
