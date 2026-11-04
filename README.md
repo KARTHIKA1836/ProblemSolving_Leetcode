@@ -92,6 +92,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3697-compute-decimal-representation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -335,6 +336,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3697-compute-decimal-representation](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
