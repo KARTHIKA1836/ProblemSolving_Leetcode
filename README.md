@@ -139,6 +139,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3718-smallest-missing-multiple-of-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3945-digit-frequency-score](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -344,6 +345,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [3945-digit-frequency-score](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3945-digit-frequency-score) |
 ## Memoization
 |  |
 | ------- |
