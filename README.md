@@ -76,6 +76,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -289,6 +290,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -377,6 +379,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [1871-jump-game-vii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2906-construct-product-matrix) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
