@@ -218,6 +218,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2027-minimum-moves-to-convert-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
