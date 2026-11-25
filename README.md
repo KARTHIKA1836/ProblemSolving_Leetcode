@@ -105,6 +105,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -428,6 +429,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3838-weighted-word-mapping](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/4020-elevator-requests-i) |
 ## Bit Manipulation
 |  |
 | ------- |
