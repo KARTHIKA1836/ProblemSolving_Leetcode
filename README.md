@@ -82,6 +82,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -348,6 +349,7 @@ I have worked with the problem solving on leetcide regularly , this motivate me 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3360-stone-removal-game](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KARTHIKA1836/ProblemSolving_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
